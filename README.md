@@ -2,7 +2,7 @@
   <h1>Cosmic Genius International Challenge (CGIC)</h1>
   <p>This README provides setup, usage, and payment security information for the Cosmic Genius International Challenge platform.</p>
 
-  <div class="box">
+  <div class="box"
     <h2>📌 Project Overview</h2>
     <p>CGIC is a global academic challenge platform designed for students to participate in science, math, and logical reasoning competitions.</p>
   </div>
